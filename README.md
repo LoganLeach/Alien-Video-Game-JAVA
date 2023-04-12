@@ -1,0 +1,1 @@
+Alien-Video-Game-JAVA is an exciting sci-fi action game set in a distant galaxy, where a player must navigate through treacherous environments while battling hostile alien forces. The game is built using the Java programming language, which provides a robust and scalable platform for creating immersive gameplay experiences.
